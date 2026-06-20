@@ -53,11 +53,6 @@ cd "Filevault---python-file-handling-project-using-streamlit-"
 
 ### 2. Install dependencies
 ```bash
-pip install -r requirements.txt
-```
-
-Or, if you only need Streamlit:
-```bash
 pip install streamlit
 ```
 
